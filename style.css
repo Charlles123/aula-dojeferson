@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Minha Livraria Online</title>
-    <style>
+    <style>@import url("STYLE/HEADER.CSS");
         /* Estilos CSS para a página */
         body {
             font-family: Arial, sans-serif;
